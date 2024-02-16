@@ -1,0 +1,19 @@
+
+section{
+    background-color: black;
+}
+.bulb{
+    margin-left: 900px;
+    margin-top: 300px;
+    margin-bottom: 386px;
+    background-color: yellow;
+}
+
+
+.first-colour{
+    background-color: black;
+}
+
+.second-colour{
+    background-color: yellow;
+}
